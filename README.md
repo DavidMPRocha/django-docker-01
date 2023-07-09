@@ -1,4 +1,4 @@
-# Configuração de projeto Django Rest Framework com Docker
+# Configuração de projeto Django Rest Framework, Postgresql, React com Docker
 ### Configurar .gitignore
 https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
 ### Configurar .dockerignore 
